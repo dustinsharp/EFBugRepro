@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "EfBugRepro"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Data Source=;Initial Catalog=;User ID=;Password=;;MultipleActiveResultSets=True;"
+    }
+  }
+}
